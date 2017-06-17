@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 # Esquemas:
-- Bulleted
+- [Configuración de Activos Fijos](https://jesustorrellas.github.io/Esquema Configuracion Activos Fijos.html)
